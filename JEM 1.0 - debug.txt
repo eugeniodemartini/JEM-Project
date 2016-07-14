@@ -1,0 +1,4 @@
+Sorry guys, the debug step will be explained as soon as the M of JEM project will come back from Mars! :)
+If really in hurry contact us @ the e-mail in readme.txt!
+
+WE WOULD REALLY APPRECIATE YOUR CONTRIBUTION IN DEBBUGGING OUR SHIELD, CREATING A JEM 1.1! Please ask us for opening a new branch of this project! 
